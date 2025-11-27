@@ -77,12 +77,11 @@ jupyter notebook Part1_Regression.ipynb
 
 ## 👤 Auteur
 **Votre Nom**
-- GitHub: [@votre_username](https://github.com/votre_username)
+- GitHub: [@HafOosa](https://github.com/HafOosa)
 - Université: Université Abdelmalek Essaadi - FST Tanger
-- Master: MBD (Big Data)
+- Master: MBD (Securite IT & Big Data)
 
-## 📝 License
-Ce projet est sous licence MIT.
+
 
 ---
 *Projet réalisé dans le cadre du cours de Deep Learning - Pr. ELAACHAK LOTFI*
